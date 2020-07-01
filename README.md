@@ -16,7 +16,6 @@
 -   [Documentation](#docs)
 -   [Disclaimer](#disclaimer)
 -   [Example](#example)
--   [Media](#media)
 
 ## History Behind
 
@@ -73,6 +72,10 @@ const { BrandCrawler } = require('@vorlefan/brand').default;
 
 import { BrandCrawler } from '@vorlefan/brand';
 ```
+
+## Use Case
+
+If you are building a 'brand search' or the app that you are creating requires the logo and banner from the enterprise in question, I guess that this will suit you pretty well :)
 
 ## Documentation
 
